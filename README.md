@@ -1,5 +1,5 @@
 # Calculator-TUI
-Calculator with terminal-based user interface (my first Java project)
+Calculator with terminal-based user interface (My first Java project)
 
 # Dependencies
 
