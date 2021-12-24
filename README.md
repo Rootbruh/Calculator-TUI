@@ -42,9 +42,8 @@ JRE:
 Windows - Linux:
 
 ```bash
-
-➜ cd /path/to/jar/file/Calculator-TUI.jar
-
+➜ git clone https://github.com/Rootbruh/Calculator-TUI.git
+➜ cd out/artifacts/Calculator_TUI_jar/Calculator-TUI.jar
 ➜ java -jar Calculator-TUI.jar
 
 ```
